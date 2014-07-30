@@ -1,3 +1,9 @@
+/*
+ *  Joe Ferrucci
+ *  
+ */
+
+
 #include <iostream>
 #include <fstream>
 #include <cmath>

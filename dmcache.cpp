@@ -1,4 +1,7 @@
-
+/*
+ *	Joe Ferrucci
+ *	
+ */
 
 #include <iostream>
 #include <fstream>

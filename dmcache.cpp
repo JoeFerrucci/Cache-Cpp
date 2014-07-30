@@ -82,7 +82,7 @@ line getmem(int tag)
 
 int main()
 {
-	ofstream ofile("dm-output.txt");
+	ofstream ofile("dm-out.txt");
 	ofile << "";
 	ofile.close();
 	
@@ -159,7 +159,7 @@ int main()
 			
 			else
 			{
-				ofstream ofile("dm-output.txt" , ios::app);
+				ofstream ofile("dm-out.txt" , ios::app);
 				//first find in cache
 				if(cache[set].tag == tag)
 				{
